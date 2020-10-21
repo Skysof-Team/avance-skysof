@@ -1,0 +1,31 @@
+
+.logo-size{
+    background-repeat: no-repeat;
+    width:  110px !important;
+    height: 110px !important;
+}
+.bi{
+    width:  25px !important;
+    height: 25px !important;
+}
+.bi.card-element{
+    width:  35px !important;
+    height: 35px !important;
+}
+.aling-card-element{
+    position: relative;
+    top: 3px;
+    left: 15px;
+    font-weight: 400;
+}
+.tag-card-element{
+    width:  30px !important;
+    height: 30px !important;
+    border-radius: 5px;
+    position: relative;
+    top: -35px;
+    left: 220px;
+}
+.nav-link.active{
+    background-color: #399ce2 !important;
+}

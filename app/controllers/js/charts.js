@@ -32,8 +32,8 @@ function percentRealice() {
         color: 'white',
     },
     legend: 'none',
-    width: 400,
-    height: 400,
+    width: 300,
+    height: 300,
     slices: {
         1: { color: '#175f92' },
         0: { color: 'grey' }
@@ -56,8 +56,8 @@ function drawChart1() {
 
     var options = {
     pieHole: 0.4,
-    width: 400,
-    height: 400
+    width: 300,
+    height: 300
     };
 
     var chart = new google.visualization.PieChart(document.getElementById('chart_div1'));
